@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rodripassos/rodripassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Software Engineer | Project Manager | Entrepreneur | European Citizenship
 
-Here are some ideas to get you started:
+Graduated in Computer Engineering and Post-Graduation in IT Project Management. More than 20 years of experience in IT area. Entrepreneur, business owner and with great leadership orientation, executive relationship, IT development, business, planning and execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work experience in IT and business project development. Proven skills to find business solutions using technology.
+
+Experience in development as a programmer and also in the management of projects of various sizes, including design and implementation of software and business solutions; Great communication skills at all organizational levels inside and outside the company.
+
+Hard Skills:
+
+HTML, Python, JavaScript, CSS, React
+
+Contact info: rodrigopassosnascimento@gmail.com
