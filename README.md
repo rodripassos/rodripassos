@@ -10,6 +10,6 @@ Experience in development as a programmer and also in the management of projects
 
 Hard Skills:
 
-HTML, Python, JavaScript, CSS, React
+HTML, Python, JavaScript, CSS, React, Redux
 
 Contact info: rodrigopassosnascimento@gmail.com
