@@ -2,7 +2,7 @@
 
 Full Stack Developer | Software Engineer | Project Manager | Entrepreneur | European Citizenship
 
-Graduated in Computer Engineering and Post-Graduation in IT Project Management. More than 20 years of experience in IT area. Entrepreneur, business owner and with great leadership orientation, executive relationship, IT development, business, planning and execution.
+Graduated in Computer Engineering and Post-Graduation in IT Project Management. More than 20 years of experience in IT industry. Entrepreneur, business owner and with great leadership orientation, executive relationship, IT development, business, planning and execution.
 
 Work experience in IT and business project development. Proven skills to find business solutions using technology.
 
